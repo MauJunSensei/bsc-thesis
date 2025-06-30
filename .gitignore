@@ -175,3 +175,5 @@ cython_debug/
 
 Proteomics/CycPeptMPDB/data/
 Proteomics/ProteomicsDB/
+Proteomics/CycPeptMPDB/notebooks/nn_descriptor.ipynb
+Proteomics/CycPeptMPDB/notebooks/nn_llm.ipynb
